@@ -1,0 +1,38 @@
+
+
+
+.navbar a {
+	 color: white; font-weight: bold; text-decoration: none; font-family: sans-serif; height: 10%; margin-left: 5%; 
+}
+
+
+.navbar {
+	
+}
+
+
+
+
+.main table{ 
+margin: auto; text-align: center; background-color: rgba(54,25,25,.5); color: white;
+}
+
+.main {
+	text-align: center;
+}
+
+.info{
+	margin: 10%;
+}
+
+td {
+	border-style: solid; border-color: black; border-size: 25%;
+}
+
+body {
+	background-image: url("https://ironsitetx.com/wp-content/uploads/2016/09/Photo-Jan-17-4-53-59-PM-1024x768.jpg"); background-size: 100%; background-repeat: no-repeat;
+}
+
+.main h1,h2 {
+	 width: 30%; margin: auto; color: white;
+}

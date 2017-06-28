@@ -1,0 +1,13 @@
+
+	.navbar a {
+	 color: black; font-weight: bold; text-decoration: none; font-family: sans-serif; height: 10%; margin-left: 5%; 
+}
+
+
+   .main h1 {
+   	text-align: center; text-decoration: italic; font-size: 400%; font-family: sans-serif;
+   }
+ 
+ .main p {
+ 	text-align: center;
+ }
